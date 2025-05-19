@@ -25,7 +25,7 @@
 If you love **Now-Yeah** and want to support its growth, you can buy me a coffee! Your support helps me continue building and scaling this project. 🚀💖 
 
 <p align="center">
-    <a href="[https://www.buymeacoffee.com/Nowyeah](https://buymeacoffee.com/nowyeah)">
+    <a href="https://www.buymeacoffee.com/Nowyeah">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nowyeah" />
     </a>
 </p>
